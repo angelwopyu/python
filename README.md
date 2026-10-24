@@ -1,2 +1,0 @@
-# python
-belajar python 
